@@ -8,7 +8,7 @@ A Report is:
 A list of records organized and summarized to provide business insights.
 ```
 
-Reports help users analyze data and make decisions.
+Reports help users analyze data and make decisions
 
 ---
 
