@@ -115,4 +115,3 @@ Example:
 - Summary Formula works on grouped records.
 - Bucket Fields categorize data.
 - Conditional Highlighting improves visualization.
-
