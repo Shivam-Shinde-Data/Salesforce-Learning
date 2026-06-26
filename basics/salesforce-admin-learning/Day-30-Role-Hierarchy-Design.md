@@ -123,4 +123,3 @@ Create:
 - Roles do not give object permissions.
 - Profiles control permissions.
 - Role design is important for Salesforce security.
-
