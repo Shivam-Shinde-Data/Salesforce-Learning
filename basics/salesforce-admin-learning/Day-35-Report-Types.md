@@ -1,4 +1,4 @@
-# Day 39: Custom Report Types in Salesforce
+# Day 35: Custom Report Types in Salesforce
 
 ## What is a Report Type?
 
