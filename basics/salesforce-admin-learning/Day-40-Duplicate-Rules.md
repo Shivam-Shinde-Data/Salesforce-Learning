@@ -39,7 +39,3 @@ The rule displays a warning when a Patient with the same phone number already ex
 - `Exact` matching is useful for fields such as phone numbers.
 - Duplicate Rules can **Alert, Report, or Block** duplicate records.
 - Duplicate management is important for maintaining clean and reliable Salesforce data.
-
-## Result
-
-Successfully created and tested a Patient duplicate rule based on the **Phone** field.
