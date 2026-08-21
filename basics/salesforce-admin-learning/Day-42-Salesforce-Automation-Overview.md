@@ -1,4 +1,4 @@
-# Day 46 – Salesforce Automation Overview
+# Day 42 – Salesforce Automation Overview
 
 ## What is Automation?
 Salesforce Automation means automatically performing business actions when specific conditions or events occur.
